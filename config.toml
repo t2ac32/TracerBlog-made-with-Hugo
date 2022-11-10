@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Tracer'
+title = 'Tracer - トレーサー'
 theme = 'cactus'
 
 [params]
