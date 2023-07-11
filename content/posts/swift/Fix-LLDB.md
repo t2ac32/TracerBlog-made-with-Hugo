@@ -51,7 +51,7 @@ The image shows the image list command after its execution, followed with the ex
 
 Get the UUID of the image that is causing the error. For example, in the bellow error, we can see the framework that is causing the error as RxSwift:
 
-![error image](/posts/swift/images/error.png)
+![error image](content/posts/swift/images/error.png)
 
 Looking for the framework in the image list, we will find the following UUID:
 
