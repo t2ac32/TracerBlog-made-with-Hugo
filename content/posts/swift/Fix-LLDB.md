@@ -45,7 +45,7 @@ image list
 
 The LLDB will return a list containing all the loaded images with their UUIDs, as shown in the next image:
 
-![UUID image](images/UUID.png)
+![UUID image](UUID.png)
 
 The image shows the image list command after its execution, followed with the exact item of the image the app causing the problem.
 
