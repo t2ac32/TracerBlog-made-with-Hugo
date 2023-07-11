@@ -9,7 +9,7 @@ draft: false
 In the last few days, I saw an increasing number of developers facing a common problem trying to use lldb during a debugging session.
 
 ```Bash
-error: virtual filesystem overlay file '/Users/hmaleknejad/Library/Caches/
+error: virtual filesystem overlay file '/Users/t2ac32/Library/Caches/
 org.carthage.CarthageKit/DerivedData/13.4.1_13F100/RxSwift/6.5.0/Build/
 Intermediates.noindex/ArchiveIntermediates/RxSwift/IntermediateBuildFilesPath/
 Rx.build/Release-iphoneos/RxSwift.build/all-product-headers.yaml' not found
